@@ -1,0 +1,16 @@
+[
+    ["Patient Name: Emily Johnson", {"entities": [[14, 27, "PATIENT_NAME"]]}],
+    ["Spouse Name: Alex Johnson", {"entities": [[13, 25, "SPOUSE_NAME"]]}],
+    ["Patient ID: A123456789", {"entities": [[12, 22, "PATIENT_ID"]]}],
+    ["Insurance Company: HealthSecure Inc.", {"entities": [[20, 39, "INSURANCE_COMPANY"]]}],
+    ["Policy Number: HS-789456123", {"entities": [[15, 27, "POLICY_NUMBER"]]}],
+    ["Policy Holder: Alex Johnson", {"entities": [[15, 27, "POLICY_HOLDER"]]}],
+    ["Sum Insured: $100,000", {"entities": [[13, 21, "SUM_INSURED"]]}],
+    ["Hospital Name: St. Mary's Women's Hospital", {"entities": [[15, 45, "HOSPITAL_NAME"]]}],
+    ["Admission Date: 2025-04-18", {"entities": [[16, 26, "ADMISSION_DATE"]]}],
+    ["Discharge Date: 2025-04-21", {"entities": [[16, 26, "DISCHARGE_DATE"]]}],
+    ["Hospital NPI: 1234567890", {"entities": [[14, 24, "HOSPITAL_NPI"]]}],
+    ["Hospital TIN: 98-7654321", {"entities": [[14, 24, "HOSPITAL_TIN"]]}],
+    ["Total Claimed Amount: $6300", {"entities": [[22, 27, "CLAIMED_AMOUNT"]]}],
+    ["Signature of Policy Holder: ________________________", {"entities": [[0, 31, "SIGNATURE_FIELD"]]}]
+]
